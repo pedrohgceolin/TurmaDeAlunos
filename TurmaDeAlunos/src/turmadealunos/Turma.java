@@ -9,7 +9,7 @@ package turmadealunos;
  *
  * @author Administrador
  */
-public class TurmaDeAlunos {
+public class Turma {
 
     /**
      * @param args the command line arguments
